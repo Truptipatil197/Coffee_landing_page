@@ -1,2 +1,15 @@
-# Coffee_landing_page
-A clean and modern coffee landing page UI designed in Figma, showcasing product features, testimonials, and a call-to-action.
+
+# Cafe Street - Coffee Landing Page UI
+
+A minimal and modern landing page design for a coffee product.
+
+![CafeStreet Landing Page](./landing_page.png)
+
+## Sections Included
+- Hero with CTA
+- Product Highlights
+- Features & Benefits
+- Testimonials
+- Footer
+
+---
